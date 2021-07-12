@@ -1,1 +1,1 @@
-# e-commerce
+This is a web application project.
